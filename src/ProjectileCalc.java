@@ -7,6 +7,7 @@ public class ProjectileCalc {
 
         System.out.println("This is a ballistics calculator. Input the speed of the projectile and distance to target to know time to target and how high to aim.");
         //Welcome message?//
+        //Hello from laptop!//
 
 
 
